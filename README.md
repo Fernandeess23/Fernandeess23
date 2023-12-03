@@ -13,7 +13,10 @@
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> For frontend development I use JavaScript and ReactTS, I am passionate about discovering new things and using them to create high-quality solutions. Today, I'm an entry-level front-end developer focused on web development.</p>&nbsp;
 
-
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Fernandeess23&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-lucas-lima-fernandes-projects.vercel.app/api/top-langs/?username=Fernandeess23&show_icons=true&theme=radical&layout=compact" />
+ </div>
  
  &nbsp;
  &nbsp;
